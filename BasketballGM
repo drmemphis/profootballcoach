@@ -174,7 +174,7 @@
 
 {"tid":9,
 "name":"James Wiseman",
-"ratings":[{"hgt":70,"stre":61,"spd":47,"jmp":63,"endu":57,"ins":82,"dnk":83,"ft":30,"fg":32,"tp":40,"diq":37,"oiq":46,"drb":38,"pss":31,"reb":60}],
+"ratings":[{"hgt":70,"stre":61,"spd":47,"jmp":53,"endu":57,"ins":82,"dnk":83,"ft":30,"fg":32,"tp":40,"diq":51,"oiq":46,"drb":38,"pss":31,"reb":60}],
 "pos":"C","hgt":84,"weight":240,
 "born":{"year":2001,"loc":"Nashville, TN"},
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630164.png",
@@ -188,8 +188,8 @@
 
 {"tid":2,
 "name":"Ben Simmons",
-"ratings":[{"hgt":66,"stre":55,"spd":72,"jmp":50,"endu":66,"ins":65,"dnk":85,"ft":29,"fg":43,"tp":3,"diq":49,"oiq":60,"drb":62,"pss":73,"reb":82}],
-"pos":"PG","hgt":83,"weight":240,
+"ratings":[{"hgt":66,"stre":55,"spd":72,"jmp":50,"endu":66,"ins":60,"dnk":85,"ft":29,"fg":43,"tp":3,"diq":56,"oiq":60,"drb":62,"pss":77,"reb":82}],
+"pos":"GF","hgt":83,"weight":240,
 "born":{"year":1997,"loc":"Melbourne, Australia"},
 "moodTraits":["F","$"],
 "imgURL":"https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
@@ -346,7 +346,7 @@
 
 {"tid":4,
 "name":"DeMar DeRozan",
-"ratings":[{"hgt":53,"stre":59,"spd":79,"jmp":65,"endu":73,"ins":67,"dnk":87,"ft":64,"fg":88,"tp":37,"diq":39,"oiq":67,"drb":74,"pss":47,"reb":62}],
+"ratings":[{"hgt":53,"stre":59,"spd":69,"jmp":45,"endu":73,"ins":67,"dnk":87,"ft":64,"fg":88,"tp":37,"diq":39,"oiq":67,"drb":74,"pss":47,"reb":62}],
 "pos":"F","hgt":78,"weight":220,
 "born":{"year":1990,"loc":"Compton, CA"},
 "moodTraits":["$"],
